@@ -17,7 +17,7 @@ final  controllerX = Get.put(ControllerX());
         children: [
           GetBuilder<ControllerX>(builder: (context)=>Text("Counter Value is: ${controllerX.count}"
           ),),
-          //Fist Commit
+          //Second Commit
           SizedBox(
             height: SizeFus.takeHeight(context)*0.08,
             width: SizeFus.takeWidth(context)*0.7,
