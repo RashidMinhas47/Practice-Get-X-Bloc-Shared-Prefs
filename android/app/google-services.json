@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "693414783356",
+    "project_id": "practice-8abd0",
+    "storage_bucket": "practice-8abd0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:693414783356:android:3ec69c7e0c3e0d8b0adcf9",
+        "android_client_info": {
+          "package_name": "com.sheikhrashi.flutter_with_getx"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB7epMhyO_sOTs2_FT1oNfHySVqkXQ7_F4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
